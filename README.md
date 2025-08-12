@@ -1,2 +1,3 @@
 # Spotify-clone
-Author-My name is Maryam Shahjahan
+This is my first Git Repository.Author- Maryam Shahjahan 
+
